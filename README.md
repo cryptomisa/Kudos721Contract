@@ -15,7 +15,7 @@ Truffle will use the "development" network by default.  This assumes that you ar
 ## Running the tests
 - `truffle test --network test`
 
-## Developing on Gitcoin Web
+## Developing on Cryptomisa Web
 The source repository (in development) is here -- https://github.com/mbeacom/kudos.
 
 Kudos relies on the blockchain to mint the tokens.  After each token is minted, the data in sycn'ed to the database.  The Gitcoin docker-compose.yml file runs an instance of the `testrpc`, which is your local blockchain.
